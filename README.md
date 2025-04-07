@@ -6,4 +6,4 @@
 
 # Day 2 (props)🚀 => lesson2 branch
 
-![Demo](assets/githubrocket1.gif)
+![Demo](src/assets/githubrocket1.gif)
