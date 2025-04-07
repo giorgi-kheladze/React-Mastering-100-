@@ -3,4 +3,7 @@
 👨‍💻Learning and Mastering React.js. 100 days Challenge!
 
 # Day 1 (components)🚀 => lesson1 branch
+
 # Day 2 (props)🚀 => lesson2 branch
+
+![Demo](assets/githubrocket1.gif)
