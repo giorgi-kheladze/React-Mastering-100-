@@ -6,6 +6,6 @@
 
 In this very simple project i use everything what i learned:
 
-  File structures.
-  Sass/Scss styling
-  Conponents & Props
+  1. File structures.
+  2. Sass/Scss styling
+  3. Conponents & Props
