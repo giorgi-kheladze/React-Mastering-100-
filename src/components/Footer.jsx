@@ -8,7 +8,7 @@ const Footer = () => {
         <p>Working on project:</p>
         {footerData.map((data) => (
           <p key={data.name}>
-            {data.name}, {data.surname}
+            {data.name} {data.surname}
           </p>
         ))}
       </div>

@@ -1,0 +1,22 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+  background-color: black;
+  color: white;
+
+  ul {
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+  }
+  li {
+    transition: color 0.3s ease-in-out;
+  }
+  li:hover {
+    color: gold;
+    cursor: pointer;
+  }
+}

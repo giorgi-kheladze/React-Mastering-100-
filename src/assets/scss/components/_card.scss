@@ -1,0 +1,46 @@
+.card {
+  width: 300px;
+  box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 30px;
+  text-align: center;
+  display: inline-block;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+
+  img {
+    width: 50px;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out; /* Transition for image scaling */
+  }
+
+  h2 {
+    color: goldenrod;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out; /* Transition for text scaling */
+  }
+
+  p {
+    font-size: 12px;
+    color: grey;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out; /* Transition for paragraph scaling */
+  }
+
+  &:hover {
+    transform: scale(1.05); /* Slight scale up for the entire card */
+  }
+
+  &:hover img {
+    transform: scale(1.1); /* Scale image a bit more */
+  }
+
+  &:hover h2 {
+    transform: scale(1.1); /* Scale heading */
+  }
+
+  &:hover p {
+    transform: scale(1.05); /* Scale text */
+  }
+}

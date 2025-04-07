@@ -9,15 +9,17 @@ const HomePage = () => {
     <div className="home">
       <Navbar />
 
-      {cardsData.map((card) => (
-        <Card
-          key={card.name}
-          src={card.src}
-          name={card.name}
-          describtion={card.describtion}
-          emoji={card.emoji}
-        />
-      ))}
+      <div className="wrap">
+        {cardsData.map((card) => (
+          <Card
+            key={card.name}
+            src={card.src}
+            name={card.name}
+            describtion={card.describtion}
+            emoji={card.emoji}
+          />
+        ))}
+      </div>
 
       <Footer />
     </div>

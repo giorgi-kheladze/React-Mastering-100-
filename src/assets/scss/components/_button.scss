@@ -1,0 +1,16 @@
+.button {
+  button {
+    padding: 5px 10px;
+    border: 1px solid white;
+    cursor: pointer;
+    transition: color 0.5s ease-in-out;
+    border-radius: 5px;
+    font-size: 16px;
+    overflow: hidden;
+    transition: transform 0.5s ease-in-out;
+  }
+  button:hover {
+    color: gold !important;
+    transform: scale(1.05);
+  }
+}
