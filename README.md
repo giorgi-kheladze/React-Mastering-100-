@@ -7,7 +7,7 @@
 # Day 2 (props)🚀 => lesson2 branch
 
 <!-- ![Demo](src/assets/githubrocket1.gif) -->
-<div class="wrapper">
+<div class="wrapper" style="display: flex; gap: 0;">
     <img src="src/assets/githubrocket1.gif" width="300" height="200" />
     <img src="src/assets/githubrocket1.gif" width="300" height="200" />
     <img src="src/assets/githubrocket1.gif" width="300" height="200" />
