@@ -6,7 +6,7 @@
 
 # Day 2 (props)🚀 => lesson2 branch
 
-# Day 3 (components & props simple project)🚀 => lesson3 branch
+# Day 2 (components & props simple project)🚀 => lesson3 branch
 
 <!-- ![Demo](src/assets/githubrocket1.gif) -->
 <div class="wrapper" style="display: flex; gap: 0;">
