@@ -2,7 +2,7 @@
 
 👨‍💻Learning and Mastering React.js. 100 days Challenge!
 
-# Day 1 (Props)🚀
+# Day 2 (Props)🚀
 
 1. Props, js properties, are an object whith contain data from parent component to child component.
 2. They are used topass data from parent to child component.
