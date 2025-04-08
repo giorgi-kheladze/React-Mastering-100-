@@ -8,6 +8,8 @@
 
 # Day 2 (components & props simple project)🚀 => lesson3 branch
 
+# Day 3 (state)🚀 => lesson4 branch
+
 <!-- ![Demo](src/assets/githubrocket1.gif) -->
 <div class="wrapper" style="display: flex; gap: 0;">
     <img src="src/assets/githubrocket1.gif" width="250" height="200" />
