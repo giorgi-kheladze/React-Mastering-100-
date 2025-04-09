@@ -10,7 +10,7 @@
 
 # Day 3 (state)🚀 => lesson4 branch
 
-# Day 4 (useState in details) => lesson5 branch
+# Day 4 (useState in details)🚀 => lesson5 branch
 <!-- ![Demo](src/assets/githubrocket1.gif) -->
 <div class="wrapper" style="display: flex; gap: 0;">
     <img src="src/assets/githubrocket1.gif" width="250" height="200" />
