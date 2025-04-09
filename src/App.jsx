@@ -1,3 +1,11 @@
+import { useState } from "react";
+
 export default function App() {
-  return <div className="app"></div>;
+  const [count, setCount] = useState(0);
+
+  return (
+    <div className="app">
+      <button onClick={() => setCount(count + 1)}>Count {count}</button>
+    </div>
+  );
 }

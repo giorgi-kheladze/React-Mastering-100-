@@ -2,15 +2,12 @@
 
 👨‍💻Learning and Mastering React.js. 100 days Challenge!
 
-# Day 1 (components)🚀 => lesson1 branch
+# State
 
-# Day 2 (props)🚀 => lesson2 branch
+In this branch i learn:
 
-# Day 2 (components & props simple project)🚀 => lesson3 branch
+1. What is state
+2. What is useState hook
+3. Difference between
 
-<!-- ![Demo](src/assets/githubrocket1.gif) -->
-<div class="wrapper" style="display: flex; gap: 0;">
-    <img src="src/assets/githubrocket1.gif" width="250" height="200" />
-    <img src="src/assets/githubrocket1.gif" width="250" height="200" />
-    <img src="src/assets/githubrocket1.gif" width="250" height="200" />
-</div>
+Output of an useState is an array. In this array the first item is current value of that state. Second is a setter function.
